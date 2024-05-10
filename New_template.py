@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 
-package_name="MLproject"
+package_name="Dimondprice"
 
 
 list_of_file=[
